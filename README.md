@@ -1,4 +1,4 @@
-# discord-activedeveloper
+# discord-active-developer-badge
 
 1. make sure you have nodejs and npm installed.
 
